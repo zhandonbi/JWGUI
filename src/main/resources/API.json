@@ -1,0 +1,7 @@
+{
+  "AllNet": "http://127.0.0.1:5000",
+  "Login": "/login/",
+  "Register": "/register/",
+  "GetList": "/GetList/",
+  "GetLine": "/GetLine/"
+}
